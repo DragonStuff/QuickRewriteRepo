@@ -1,5 +1,7 @@
 # QuickRewriteRepo
+![Green Tea Licence Badge](https://img.shields.io/badge/LICENCE-Green%20Tea-brightgreen.svg?link=https://github.com/DragonStuff/GreenTeaLicence)    
 Quickly Rewrite the Committer &amp; Author of your Repository
+
 
 This software uses the [Green Tea Licence](https://github.com/DragonStuff/GreenTeaLicence/blob/master/README.md). Drink Responsibly.
 
